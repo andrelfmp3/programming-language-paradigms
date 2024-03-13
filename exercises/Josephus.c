@@ -1,4 +1,6 @@
-#include <stdio.h> // josephus problem INCOMPLETO
+// josephus problem INCOMPLETO. CORRIGIR.
+
+#include <stdio.h> 
 #include <stdlib.h>
 #include <stdbool.h>
 
